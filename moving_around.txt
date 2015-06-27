@@ -1,0 +1,1494 @@
+pwd
+..
+
+# take me to your projects directory.
+cd Projects/
+
+# what we got here?
+ls
+
+# be gone! or just move out of the way ;)
+clear
+
+# Learned about the 'pipe'
+history | less
+
+# see what you've done!
+history
+
+# I think we already know what this does..
+cd
+
+# does your exercise pass the test?
+bin/rspec spec/class2/exercise5_spec.rb
+../..
+
+# run your exercise in the terminal
+ruby exercise5.rb
+
+# again again tinky-winky
+ruby exercise4.rb
+
+cd class2
+cd lib
+bin/rspec spec/class2/exercise4_spec.rb
+bin/rubocop spec/class2/exercise4_spec.rb
+bin/rubocop spec/class2/exercise3_spec.rb
+cd sea-c41-ruby/
+../../..
+subl exercise4.rb
+bin/rspec spec/class2/exercise3_spec.rb
+bin/rubocop spec/class2/exercise23_spec.rb
+bin/rubocop spec/class2/exercise2_spec.rb
+bin/rspec spec/class2/exercise2_spec.rb
+bin/rspec spec/class2/exercise1_spec.rb
+bin/rubocop spec/class2/exercise1_spec.rb
+cd..
+subl exercise5.rb
+cd CodeFellows/
+cd de
+man ls
+cd /
+cd programs
+cd Desktop/
+...
+./
+.
+ls -rt /
+ls -rt
+ls -t /
+ls /-rt
+ls /de
+ls /
+ls ~
+cd Desktop/Programs/
+cd ~
+mv CodeFellows Desktop
+mv sea-c41-ruby/ CodeFellows/
+MV -r sea-c41-ruby/ CodeFellows/
+cd ../workspace/
+cd /users/jstep84
+cd /user/jstep84
+cdls
+ruby calc.rb
+cd calc.rb
+ls
+ls -l
+mvdir sea-c41-ruby CodeFellows/
+mkdir CodeFellows
+cd ..
+cd
+-f
+f
+man -la
+ls -ltr
+ls -r
+ls -lt
+ls -l -t
+ls -a
+cd etc
+ls -t
+cd dev
+asdfsd
+cd Applications/
+echo $PATH
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+brew info fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+subl exercise3.rb
+brew --version
+xcode --version
+brew doctor
+brew version
+uname
+ruby exercise3.rb
+ruby ~/Desktop/test.rb
+subl exercise4.rb
+cd lib/class2
+cd ...
+subl exercise3.rb
+ruby exercise2.rb
+subl exercise2.rb
+ruby exercise1.rb
+cd.
+lib
+cd exercise1.rb
+cd exercise2.rb
+exercise2.rb
+cd exercise2
+bin/rubocop/exercise1.rb
+irb
+test.rb
+ruby/lib/class2/exercise1_spec.rb
+lib/class2/exercise1_spec.rb
+ruby spec/class2/exercise1_spec.rb
+git push
+git commit -m 'Finish class2'
+git add lib/class2/
+bin/rubocop lib/class2/exercise1.rb
+bin/rspec spec/class2/exercise1_spec.rb
+rspec bin spec/class2/exercise1_spec.rb
+rspec bin spec/class2/
+bin spec/class2/
+subl exercise1.rb
+bundle install
+gem install bundler
+gem
+rm -Rf sea-c41-ruby/
+rm -r sea-c41-ruby/
+git pull upstream master
+git remote add upstream https://github.com/codefellows/sea-c41-ruby
+git clone https://github.com/jstep84/sea-c41-ruby.git
+rename calc.rb test.rb
+ren calc.rb test.rb
+rnm calc.rb test.rb
+rm -r calc2.rb
+rmdir calc2.rb
+say "bryon is a douche bag"
+say "get me an angus burger with cheese"
+say "kim jong laundry is coming back"
+git push origin master
+git commit -m 'Submit class1 assignment'
+cd sea-c33-ruby/
+git add lib/class1/laptop.txt
+bin/test_laptop
+git remote add upstream https://github.com/codefellows/sea-c33-ruby.git
+bundle install --path vendor/bundle
+git clone https://github.com/jstep84/sea-c33-ruby.git
+rm ~/Desktop/test.rb
+ruby test.rb
+rb test.rb
+subl ~/Desktop/test.rb
+rmdir test.rb
+mkdir test.rb
+rmdir test
+rm test
+cleat
+say "'m sorry that this happened to me. You can leave and be happy. If you want, I'm just a vegetable."
+say "I love you, Amy!"
+say "I love you, AMY!!"
+cd test
+mkdir test
+cd Desktop
+irb
+say "matthew is a douche bag"
+say "stephen sucks dick"
+say "bryon has cancer of the mouth"
+say "stephen the rapper and real whack fapper"
+say "stephen fucks dogs"
+say "stephen is a dirty douche"
+[A
+cd Programs
+cd /Desktop
+cd ~/Projects
+mkdir ~/Projects
+rm codeWork/
+curl -fsSL http://git.io/G6oJ4g > ~/.irbrc
+ruby -v
+brew install ruby
+say "I eat pussy like its my job"
+say "pray tell why are we doing that?"
+say "we were just watering the plants"
+ruby calc2.rb
+say" Ive come to put a cruel end to your microsoft technologies. I am clear
+clea"
+say" Ive come to put a cruel end to your microsoft technologies. I am steve jobs"
+say "my name is steve jobs"
+say "everyone knows. it's ok tyo like freaky butt sex."
+say "hello, jeff. I understand you like the freaky butt sex."
+say "hello jerry"
+say "amy, I think we should get some soda water!"
+say "i think its time to leave, amy?"
+say "watt op bitches. span-two-oh-six in this motherfucker"
+say "watt op bitches. span-two-oh-six in this motherfucka"
+say "watt op bitches. span-two-oh-six in this mothu fucka"
+say "watt op bitches. span-two-oh-six in this mothu fucker"
+say "waddup bitches. span-two-oh-six in this mahfa"
+say "waddup bitches. span206 in this mahfa"
+say "hello world"
+run calc2.rb
+~
+which ruby
+l
+rmdir programs/
+;s -a
+rmdir first_prog/
+rm -r README
+rm -r .git
+rm git
+cd first_prog/
+rm first_prog
+rm README
+rm readme.txt
+git commit
+nano README
+open README
+readme
+y
+git commut
+git init
+mkdir first_prog
+mkdir programs
+say "this is your imac terminal"
+say "hello"
+echo hello
+sudo !!
+subl
+exit
+rm -rf temp
+git log
+cd temp
+cd tem
+rm -rf script/
+cd script
+rm -rf i
+rm -rf like
+rmdir like
+rm like
+cd i
+rm -rf git_basics/
+cd git_basics/
+rm -rf test
+rm -rf thisn
+rm -rf this_one/
+rm -rf my_really_cool_project/
+rmdir my_really_cool_project/
+rm my_really_cool_project/
+ls README.txt
+ls README
+rm iamcool.txt
+rm thisistoo.txt
+rmdir thisistoo.txt
+cp iamcool.txt thisistoo.txt
+cp iamcool.txt
+cp iam
+touch iamcool.txt
+pushd i/like/icecream/
+mkdir -p i/like/icecream
+cd~
+rmdir stuff
+rmdir things
+rmdir john
+rm dir john
+cd temp/stuff/things/john/
+cd stuff/things/john
+cd john
+cd things
+cd stuff
+mkdir -p temp/stuff/things/john
+mkdir temp/stuff/things
+mkdir temp/stuff
+mkdir temp
+cd my_really_cool_project/
+track file1
+nano file3
+nano file2
+nano file1
+file1 nano
+git commit -m "added files1-3"
+rm file
+touch file3
+touch file2
+touch file1
+rm 3
+rm 2
+rm 1
+rmdir 1
+touch file 3
+touch file 2
+touch file 1
+git checkout master
+cat readme
+git checkout '4ba57'
+git commit -m "added a README file"
+git add README
+git add README.txt
+ls ~a
+git commit -m "removed README"
+commit
+rmdir README.txt
+rm README.txt
+readme.txt nano
+git log HEAD
+mkdir README.txt
+add git
+cd .git
+cd tilda
+sublimeccle
+sublimetext2 README
+git init test
+git config --sublimetext2.editor
+git init git_basics
+rmdir
+5
+rm -r my_really_cool_project/
+rm -r my_firster_repo/
+stty5.12.pl
+sublime README
+sublime2 README
+sublimetext2 README
+git init my_really_cool_project/
+mv my_first_repo/ my_firster_repo
+rm -r file
+rmdir
+rm -r README
+rm -r all
+rm -a
+mkdir my_really_cool_project/
+cd -
+cd my_first_repo/
+git init my_first_repo
+git --version
+git -version
+git status
+-ls
+set EDITOR nano
+EDITOR=nano
+git sta
+git add file3
+git add file2
+git add file1
+git add file 1
+git status
+git rm READ
+git add rm READ
+git add/rm READ
+rm -r READ
+git add README
+git commit -a -m "Added project mission statement"
+git commmit -a -m "Added project mission statement"
+nano READ
+git config --global user.name
+git config --global user.email 'JSTEP84@GMAIL.COM'
+ls-a
+git add READ
+nano READ
+git init my_really_cool_project
+cd my_really_cool_project
+git init my _really_cool_project
+rm -r git
+cd thisn
+rmdir thisn
+rmdir this_one/
+rm -r this
+rm -r th
+git ad
+git init thisn
+-
+cd this_one/
+cd this
+git init this_one
+git clear
+q
+git
+ls -lSr
+ls lSr
+list
+li
+say creepy creepy creeeeeepy
+say you are creepy
+say bug eyes are creepy
+say im not creepy
+say how is amy doing tonight
+say how is amy doing?
+say how is amy tonight?
+say say saysay
+say fuck me in the goat ass
+set PATH/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin
+set PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin
+PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usrX11/bin
+export PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin
+subl ~/.config/fish/config.fish
+cd jstep84
+cd user
+cd user bin
+cd usr bin
+cd library
+cd home
+Li
+Library/
+dafkjaskldjfakl;s
+library
+user
+cd li
+rmdir subl
+rmdir hoome
+l spotify
+mkdir spotify
+mkdir
+cd spotify
+run terminal
+run
+terminal
+say im the one screaming
+say repeat
+say "bag beg bag beg"
+say "Spencer is a douche beg"
+say "Nothing is undefined"
+say "that is a great one."
+say "What did your mom make you watch amy?"
+say "My mom made me watch it"
+say "Do you want to play a game?"
+say "This is toooo much fun!"
+say "where is your body from amy?
+[1;2C[1;2C[1;2C"
+say "from the body shop"
+say "ya ah"
+say "today is where your book begins"
+say ""
+say "Feel the rain on your skin"
+say "He doenst care"
+say "Not too long bitch"
+say "NO!"
+say "I dont understand the concept. Wheel?
+stand the concept. Wheel?
+
+say "
+say "What means good?"
+say "B Nice"
+say "PRICEY CANDLE"
+say" PRICEY CANDLE"
+say "that's a pricey candle"
+run spotify
+spotify
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'JOHN STEPAN'
+git config --global user.name 'YOUR FULL NAME'
+git---version
+git--version
+subl /etc/paths
+echo PATH
+# Sublime Text
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew in
+brew
+bre
+help
+Say Hi there AMy. I am John's faithful macbook. I think you should be nicer to John. Dont you?
+hi there amy. Im johns computer. you should be having sex with john so i can watch. dont you think?
+say hello john
+ cd home
+ls home
+ls /user
+ls/user
+:
+ls Documents
+ls documents
+ls -l /etc
+ls /etc
+echo $SHELL
+echo$SHELL
+echo
+open da
+pwdpwd
+home ls
+subl. greeting.html
+subl.
+dir
+touch greeting.html
+touch filename
+home
+mkdir home
+mkdir home/greeting.html
+mkdir script
+mkdir subl
+mkdir hoome
+mkdir -script
+md
+cd
+bin/rspec spec/class2/exercise5_spec.rb
+bin/rubocop spec/class2/exercise5_spec.rb
+../..
+ruby exercise5.rb
+cd CodeFellows/sea-c41-ruby/lib/class2/
+pwd
+ls false_file.txt
+clear
+ls -l
+ls -a
+ls moving_around.txt
+ls /moving_around.txt
+ls -t
+cd moving_around.txt
+ls
+history > moving_around.txt
+..
+cd Projects/
+history | less
+history
+ruby exercise4.rb
+cd class2
+cd lib
+bin/rspec spec/class2/exercise4_spec.rb
+bin/rubocop spec/class2/exercise4_spec.rb
+bin/rubocop spec/class2/exercise3_spec.rb
+cd sea-c41-ruby/
+../../..
+subl exercise4.rb
+bin/rspec spec/class2/exercise3_spec.rb
+bin/rubocop spec/class2/exercise23_spec.rb
+bin/rubocop spec/class2/exercise2_spec.rb
+bin/rspec spec/class2/exercise2_spec.rb
+bin/rspec spec/class2/exercise1_spec.rb
+bin/rubocop spec/class2/exercise1_spec.rb
+cd..
+subl exercise5.rb
+cd CodeFellows/
+cd de
+man ls
+cd /
+cd programs
+cd Desktop/
+...
+./
+.
+ls -rt /
+ls -rt
+ls -t /
+ls /-rt
+ls /de
+ls /
+ls ~
+cd Desktop/Programs/
+cd ~
+mv CodeFellows Desktop
+mv sea-c41-ruby/ CodeFellows/
+MV -r sea-c41-ruby/ CodeFellows/
+cd ../workspace/
+cd /users/jstep84
+cd /user/jstep84
+cdls
+ruby calc.rb
+cd calc.rb
+ls
+mvdir sea-c41-ruby CodeFellows/
+mkdir CodeFellows
+cd ..
+cd
+-f
+f
+man -la
+ls -ltr
+ls -r
+ls -lt
+ls -l -t
+cd etc
+cd dev
+asdfsd
+cd Applications/
+echo $PATH
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+brew info fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+subl exercise3.rb
+brew --version
+xcode --version
+brew doctor
+brew version
+uname
+ruby exercise3.rb
+ruby ~/Desktop/test.rb
+subl exercise4.rb
+cd lib/class2
+cd ...
+subl exercise3.rb
+ruby exercise2.rb
+subl exercise2.rb
+ruby exercise1.rb
+cd.
+lib
+cd exercise1.rb
+cd exercise2.rb
+exercise2.rb
+cd exercise2
+bin/rubocop/exercise1.rb
+irb
+test.rb
+ruby/lib/class2/exercise1_spec.rb
+lib/class2/exercise1_spec.rb
+ruby spec/class2/exercise1_spec.rb
+git push
+git commit -m 'Finish class2'
+git add lib/class2/
+bin/rubocop lib/class2/exercise1.rb
+bin/rspec spec/class2/exercise1_spec.rb
+rspec bin spec/class2/exercise1_spec.rb
+rspec bin spec/class2/
+bin spec/class2/
+subl exercise1.rb
+bundle install
+gem install bundler
+gem
+rm -Rf sea-c41-ruby/
+rm -r sea-c41-ruby/
+git pull upstream master
+git remote add upstream https://github.com/codefellows/sea-c41-ruby
+git clone https://github.com/jstep84/sea-c41-ruby.git
+rename calc.rb test.rb
+ren calc.rb test.rb
+rnm calc.rb test.rb
+rm -r calc2.rb
+rmdir calc2.rb
+say "bryon is a douche bag"
+say "get me an angus burger with cheese"
+say "kim jong laundry is coming back"
+git push origin master
+git commit -m 'Submit class1 assignment'
+cd sea-c33-ruby/
+git add lib/class1/laptop.txt
+bin/test_laptop
+git remote add upstream https://github.com/codefellows/sea-c33-ruby.git
+bundle install --path vendor/bundle
+git clone https://github.com/jstep84/sea-c33-ruby.git
+rm ~/Desktop/test.rb
+ruby test.rb
+rb test.rb
+subl ~/Desktop/test.rb
+rmdir test.rb
+mkdir test.rb
+rmdir test
+rm test
+cleat
+say "'m sorry that this happened to me. You can leave and be happy. If you want, I'm just a vegetable."
+say "I love you, Amy!"
+say "I love you, AMY!!"
+cd test
+mkdir test
+cd Desktop
+irb
+say "matthew is a douche bag"
+say "stephen sucks dick"
+say "bryon has cancer of the mouth"
+say "stephen the rapper and real whack fapper"
+say "stephen fucks dogs"
+say "stephen is a dirty douche"
+[A
+cd Programs
+cd /Desktop
+cd ~/Projects
+mkdir ~/Projects
+rm codeWork/
+curl -fsSL http://git.io/G6oJ4g > ~/.irbrc
+ruby -v
+brew install ruby
+say "I eat pussy like its my job"
+say "pray tell why are we doing that?"
+say "we were just watering the plants"
+ruby calc2.rb
+say" Ive come to put a cruel end to your microsoft technologies. I am clear
+clea"
+say" Ive come to put a cruel end to your microsoft technologies. I am steve jobs"
+say "my name is steve jobs"
+say "everyone knows. it's ok tyo like freaky butt sex."
+say "hello, jeff. I understand you like the freaky butt sex."
+say "hello jerry"
+say "amy, I think we should get some soda water!"
+say "i think its time to leave, amy?"
+say "watt op bitches. span-two-oh-six in this motherfucker"
+say "watt op bitches. span-two-oh-six in this motherfucka"
+say "watt op bitches. span-two-oh-six in this mothu fucka"
+say "watt op bitches. span-two-oh-six in this mothu fucker"
+say "waddup bitches. span-two-oh-six in this mahfa"
+say "waddup bitches. span206 in this mahfa"
+say "hello world"
+run calc2.rb
+~
+which ruby
+l
+rmdir programs/
+;s -a
+rmdir first_prog/
+rm -r README
+rm -r .git
+rm git
+cd first_prog/
+rm first_prog
+rm README
+rm readme.txt
+git commit
+nano README
+open README
+readme
+y
+git commut
+git init
+mkdir first_prog
+mkdir programs
+say "this is your imac terminal"
+say "hello"
+echo hello
+sudo !!
+subl
+exit
+rm -rf temp
+git log
+cd temp
+cd tem
+rm -rf script/
+cd script
+rm -rf i
+rm -rf like
+rmdir like
+rm like
+cd i
+rm -rf git_basics/
+cd git_basics/
+rm -rf test
+rm -rf thisn
+rm -rf this_one/
+rm -rf my_really_cool_project/
+rmdir my_really_cool_project/
+rm my_really_cool_project/
+ls README.txt
+ls README
+rm iamcool.txt
+rm thisistoo.txt
+rmdir thisistoo.txt
+cp iamcool.txt thisistoo.txt
+cp iamcool.txt
+cp iam
+touch iamcool.txt
+pushd i/like/icecream/
+mkdir -p i/like/icecream
+cd~
+rmdir stuff
+rmdir things
+rmdir john
+rm dir john
+cd temp/stuff/things/john/
+cd stuff/things/john
+cd john
+cd things
+cd stuff
+mkdir -p temp/stuff/things/john
+mkdir temp/stuff/things
+mkdir temp/stuff
+mkdir temp
+cd my_really_cool_project/
+track file1
+nano file3
+nano file2
+nano file1
+file1 nano
+git commit -m "added files1-3"
+rm file
+touch file3
+touch file2
+touch file1
+rm 3
+rm 2
+rm 1
+rmdir 1
+touch file 3
+touch file 2
+touch file 1
+git checkout master
+cat readme
+git checkout '4ba57'
+git commit -m "added a README file"
+git add README
+git add README.txt
+ls ~a
+git commit -m "removed README"
+commit
+rmdir README.txt
+rm README.txt
+readme.txt nano
+git log HEAD
+mkdir README.txt
+add git
+cd .git
+cd tilda
+sublimeccle
+sublimetext2 README
+git init test
+git config --sublimetext2.editor
+git init git_basics
+rmdir
+5
+rm -r my_really_cool_project/
+rm -r my_firster_repo/
+stty5.12.pl
+sublime README
+sublime2 README
+sublimetext2 README
+git init my_really_cool_project/
+mv my_first_repo/ my_firster_repo
+rm -r file
+rmdir
+rm -r README
+rm -r all
+rm -a
+mkdir my_really_cool_project/
+cd -
+cd my_first_repo/
+git init my_first_repo
+git --version
+git -version
+git status
+-ls
+set EDITOR nano
+EDITOR=nano
+git sta
+git add file3
+git add file2
+git add file1
+git add file 1
+git status
+git rm READ
+git add rm READ
+git add/rm READ
+rm -r READ
+git add README
+git commit -a -m "Added project mission statement"
+git commmit -a -m "Added project mission statement"
+nano READ
+git config --global user.name
+git config --global user.email 'JSTEP84@GMAIL.COM'
+ls-a
+git add READ
+nano READ
+git init my_really_cool_project
+cd my_really_cool_project
+git init my _really_cool_project
+rm -r git
+cd thisn
+rmdir thisn
+rmdir this_one/
+rm -r this
+rm -r th
+git ad
+git init thisn
+-
+cd this_one/
+cd this
+git init this_one
+git clear
+q
+git
+ls -lSr
+ls lSr
+list
+li
+say creepy creepy creeeeeepy
+say you are creepy
+say bug eyes are creepy
+say im not creepy
+say how is amy doing tonight
+say how is amy doing?
+say how is amy tonight?
+say say saysay
+say fuck me in the goat ass
+set PATH/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin
+set PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin
+PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usrX11/bin
+export PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin
+subl ~/.config/fish/config.fish
+cd jstep84
+cd user
+cd user bin
+cd usr bin
+cd library
+cd home
+Li
+Library/
+dafkjaskldjfakl;s
+library
+user
+cd li
+rmdir subl
+rmdir hoome
+l spotify
+mkdir spotify
+mkdir
+cd spotify
+run terminal
+run
+terminal
+say im the one screaming
+say repeat
+say "bag beg bag beg"
+say "Spencer is a douche beg"
+say "Nothing is undefined"
+say "that is a great one."
+say "What did your mom make you watch amy?"
+say "My mom made me watch it"
+say "Do you want to play a game?"
+say "This is toooo much fun!"
+say "where is your body from amy?
+[1;2C[1;2C[1;2C"
+say "from the body shop"
+say "ya ah"
+say "today is where your book begins"
+say ""
+say "Feel the rain on your skin"
+say "He doenst care"
+say "Not too long bitch"
+say "NO!"
+say "I dont understand the concept. Wheel?
+stand the concept. Wheel?
+
+say "
+say "What means good?"
+say "B Nice"
+say "PRICEY CANDLE"
+say" PRICEY CANDLE"
+say "that's a pricey candle"
+run spotify
+spotify
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'JOHN STEPAN'
+git config --global user.name 'YOUR FULL NAME'
+git---version
+git--version
+subl /etc/paths
+echo PATH
+# Sublime Text
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew in
+brew
+bre
+help
+Say Hi there AMy. I am John's faithful macbook. I think you should be nicer to John. Dont you?
+hi there amy. Im johns computer. you should be having sex with john so i can watch. dont you think?
+say hello john
+ cd home
+ls home
+ls /user
+ls/user
+:
+ls Documents
+ls documents
+ls -l /etc
+ls /etc
+echo $SHELL
+echo$SHELL
+echo
+open da
+pwdpwd
+home ls
+# i think you know what that means
+subl. greeting.html
+subl.
+dir
+touch greeting.html
+touch filename
+home
+mkdir home
+mkdir home/greeting.html
+mkdir script
+mkdir subl
+mkdir hoome
+mkdir -script
+md
+moving_around.txt
+ls moving_around.txt
+ls -l moving_around.txt
+clear
+nano moving_around.txt
+subl moving_around.txt
+ls -l
+history >> moving_around.txt
+cd
+bin/rspec spec/class2/exercise5_spec.rb
+bin/rubocop spec/class2/exercise5_spec.rb
+../..
+ruby exercise5.rb
+cd CodeFellows/sea-c41-ruby/lib/class2/
+pwd
+ls false_file.txt
+ls -a
+ls /moving_around.txt
+ls -t
+cd moving_around.txt
+ls
+history > moving_around.txt
+..
+cd Projects/
+history | less
+history
+ruby exercise4.rb
+cd class2
+cd lib
+bin/rspec spec/class2/exercise4_spec.rb
+bin/rubocop spec/class2/exercise4_spec.rb
+bin/rubocop spec/class2/exercise3_spec.rb
+cd sea-c41-ruby/
+../../..
+subl exercise4.rb
+bin/rspec spec/class2/exercise3_spec.rb
+bin/rubocop spec/class2/exercise23_spec.rb
+bin/rubocop spec/class2/exercise2_spec.rb
+bin/rspec spec/class2/exercise2_spec.rb
+bin/rspec spec/class2/exercise1_spec.rb
+bin/rubocop spec/class2/exercise1_spec.rb
+cd..
+subl exercise5.rb
+cd CodeFellows/
+cd de
+man ls
+cd /
+cd programs
+cd Desktop/
+...
+./
+.
+ls -rt /
+ls -rt
+ls -t /
+ls /-rt
+ls /de
+ls /
+ls ~
+cd Desktop/Programs/
+cd ~
+mv CodeFellows Desktop
+mv sea-c41-ruby/ CodeFellows/
+MV -r sea-c41-ruby/ CodeFellows/
+cd ../workspace/
+cd /users/jstep84
+cd /user/jstep84
+cdls
+ruby calc.rb
+cd calc.rb
+ls
+mvdir sea-c41-ruby CodeFellows/
+mkdir CodeFellows
+cd ..
+cd
+-f
+f
+man -la
+ls -ltr
+ls -r
+ls -lt
+ls -l -t
+cd etc
+cd dev
+asdfsd
+cd Applications/
+echo $PATH
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+brew info fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+subl exercise3.rb
+brew --version
+xcode --version
+brew doctor
+brew version
+uname
+ruby exercise3.rb
+ruby ~/Desktop/test.rb
+subl exercise4.rb
+cd lib/class2
+cd ...
+subl exercise3.rb
+ruby exercise2.rb
+subl exercise2.rb
+ruby exercise1.rb
+cd.
+lib
+cd exercise1.rb
+cd exercise2.rb
+exercise2.rb
+cd exercise2
+bin/rubocop/exercise1.rb
+irb
+test.rb
+ruby/lib/class2/exercise1_spec.rb
+lib/class2/exercise1_spec.rb
+ruby spec/class2/exercise1_spec.rb
+git push
+git commit -m 'Finish class2'
+git add lib/class2/
+bin/rubocop lib/class2/exercise1.rb
+bin/rspec spec/class2/exercise1_spec.rb
+rspec bin spec/class2/exercise1_spec.rb
+rspec bin spec/class2/
+bin spec/class2/
+subl exercise1.rb
+bundle install
+gem install bundler
+gem
+rm -Rf sea-c41-ruby/
+rm -r sea-c41-ruby/
+git pull upstream master
+git remote add upstream https://github.com/codefellows/sea-c41-ruby
+git clone https://github.com/jstep84/sea-c41-ruby.git
+rename calc.rb test.rb
+ren calc.rb test.rb
+rnm calc.rb test.rb
+rm -r calc2.rb
+rmdir calc2.rb
+say "bryon is a douche bag"
+say "get me an angus burger with cheese"
+say "kim jong laundry is coming back"
+git push origin master
+git commit -m 'Submit class1 assignment'
+cd sea-c33-ruby/
+git add lib/class1/laptop.txt
+bin/test_laptop
+git remote add upstream https://github.com/codefellows/sea-c33-ruby.git
+bundle install --path vendor/bundle
+git clone https://github.com/jstep84/sea-c33-ruby.git
+rm ~/Desktop/test.rb
+ruby test.rb
+rb test.rb
+subl ~/Desktop/test.rb
+rmdir test.rb
+mkdir test.rb
+rmdir test
+rm test
+cleat
+say "'m sorry that this happened to me. You can leave and be happy. If you want, I'm just a vegetable."
+say "I love you, Amy!"
+say "I love you, AMY!!"
+cd test
+mkdir test
+cd Desktop
+irb
+say "matthew is a douche bag"
+say "stephen sucks dick"
+say "bryon has cancer of the mouth"
+say "stephen the rapper and real whack fapper"
+say "stephen fucks dogs"
+say "stephen is a dirty douche"
+[A
+cd Programs
+cd /Desktop
+cd ~/Projects
+mkdir ~/Projects
+rm codeWork/
+curl -fsSL http://git.io/G6oJ4g > ~/.irbrc
+ruby -v
+brew install ruby
+say "I eat pussy like its my job"
+say "pray tell why are we doing that?"
+say "we were just watering the plants"
+ruby calc2.rb
+say" Ive come to put a cruel end to your microsoft technologies. I am clear
+clea"
+say" Ive come to put a cruel end to your microsoft technologies. I am steve jobs"
+say "my name is steve jobs"
+say "everyone knows. it's ok tyo like freaky butt sex."
+say "hello, jeff. I understand you like the freaky butt sex."
+say "hello jerry"
+say "amy, I think we should get some soda water!"
+say "i think its time to leave, amy?"
+say "watt op bitches. span-two-oh-six in this motherfucker"
+say "watt op bitches. span-two-oh-six in this motherfucka"
+say "watt op bitches. span-two-oh-six in this mothu fucka"
+say "watt op bitches. span-two-oh-six in this mothu fucker"
+say "waddup bitches. span-two-oh-six in this mahfa"
+say "waddup bitches. span206 in this mahfa"
+say "hello world"
+run calc2.rb
+~
+which ruby
+l
+rmdir programs/
+;s -a
+rmdir first_prog/
+rm -r README
+rm -r .git
+rm git
+cd first_prog/
+rm first_prog
+rm README
+rm readme.txt
+git commit
+nano README
+open README
+readme
+y
+git commut
+git init
+mkdir first_prog
+mkdir programs
+say "this is your imac terminal"
+say "hello"
+echo hello
+sudo !!
+subl
+exit
+rm -rf temp
+git log
+cd temp
+cd tem
+rm -rf script/
+cd script
+rm -rf i
+rm -rf like
+rmdir like
+rm like
+cd i
+rm -rf git_basics/
+cd git_basics/
+rm -rf test
+rm -rf thisn
+rm -rf this_one/
+rm -rf my_really_cool_project/
+rmdir my_really_cool_project/
+rm my_really_cool_project/
+ls README.txt
+ls README
+rm iamcool.txt
+rm thisistoo.txt
+rmdir thisistoo.txt
+cp iamcool.txt thisistoo.txt
+cp iamcool.txt
+cp iam
+touch iamcool.txt
+pushd i/like/icecream/
+mkdir -p i/like/icecream
+cd~
+rmdir stuff
+rmdir things
+rmdir john
+rm dir john
+cd temp/stuff/things/john/
+cd stuff/things/john
+cd john
+cd things
+cd stuff
+mkdir -p temp/stuff/things/john
+mkdir temp/stuff/things
+mkdir temp/stuff
+mkdir temp
+cd my_really_cool_project/
+track file1
+nano file3
+nano file2
+nano file1
+file1 nano
+git commit -m "added files1-3"
+rm file
+touch file3
+touch file2
+touch file1
+rm 3
+rm 2
+rm 1
+rmdir 1
+touch file 3
+touch file 2
+touch file 1
+git checkout master
+cat readme
+git checkout '4ba57'
+git commit -m "added a README file"
+git add README
+git add README.txt
+ls ~a
+git commit -m "removed README"
+commit
+rmdir README.txt
+rm README.txt
+readme.txt nano
+git log HEAD
+mkdir README.txt
+add git
+cd .git
+cd tilda
+sublimeccle
+sublimetext2 README
+git init test
+git config --sublimetext2.editor
+git init git_basics
+rmdir
+5
+rm -r my_really_cool_project/
+rm -r my_firster_repo/
+stty5.12.pl
+sublime README
+sublime2 README
+sublimetext2 README
+git init my_really_cool_project/
+mv my_first_repo/ my_firster_repo
+rm -r file
+rmdir
+rm -r README
+rm -r all
+rm -a
+mkdir my_really_cool_project/
+cd -
+cd my_first_repo/
+git init my_first_repo
+git --version
+git -version
+git status
+-ls
+set EDITOR nano
+EDITOR=nano
+git sta
+git add file3
+git add file2
+git add file1
+git add file 1
+git status
+git rm READ
+git add rm READ
+git add/rm READ
+rm -r READ
+git add README
+git commit -a -m "Added project mission statement"
+git commmit -a -m "Added project mission statement"
+nano READ
+git config --global user.name
+git config --global user.email 'JSTEP84@GMAIL.COM'
+ls-a
+git add READ
+nano READ
+git init my_really_cool_project
+cd my_really_cool_project
+git init my _really_cool_project
+rm -r git
+cd thisn
+rmdir thisn
+rmdir this_one/
+rm -r this
+rm -r th
+git ad
+git init thisn
+-
+cd this_one/
+cd this
+git init this_one
+git clear
+q
+git
+ls -lSr
+ls lSr
+list
+li
+say creepy creepy creeeeeepy
+say you are creepy
+say bug eyes are creepy
+say im not creepy
+say how is amy doing tonight
+say how is amy doing?
+say how is amy tonight?
+say say saysay
+say fuck me in the goat ass
+set PATH/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin
+set PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin
+PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usrX11/bin
+export PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin
+subl ~/.config/fish/config.fish
+cd jstep84
+cd user
+cd user bin
+cd usr bin
+cd library
+cd home
+Li
+Library/
+dafkjaskldjfakl;s
+library
+user
+cd li
+rmdir subl
+rmdir hoome
+l spotify
+mkdir spotify
+mkdir
+cd spotify
+run terminal
+run
+terminal
+say im the one screaming
+say repeat
+say "bag beg bag beg"
+say "Spencer is a douche beg"
+say "Nothing is undefined"
+say "that is a great one."
+say "What did your mom make you watch amy?"
+say "My mom made me watch it"
+say "Do you want to play a game?"
+say "This is toooo much fun!"
+say "where is your body from amy?
+[1;2C[1;2C[1;2C"
+say "from the body shop"
+say "ya ah"
+say "today is where your book begins"
+say ""
+say "Feel the rain on your skin"
+say "He doenst care"
+say "Not too long bitch"
+say "NO!"
+say "I dont understand the concept. Wheel?
+stand the concept. Wheel?
+
+say "
+say "What means good?"
+say "B Nice"
+say "PRICEY CANDLE"
+say" PRICEY CANDLE"
+say "that's a pricey candle"
+run spotify
+spotify
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'JOHN STEPAN'
+git config --global user.name 'YOUR FULL NAME'
+git---version
+git--version
+subl /etc/paths
+echo PATH
+# Sublime Text
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew in
+brew
+bre
+help
+Say Hi there AMy. I am John's faithful macbook. I think you should be nicer to John. Dont you?
+hi there amy. Im johns computer. you should be having sex with john so i can watch. dont you think?
+say hello john
+ cd home
+ls home
+ls /user
+ls/user
+:
+ls Documents
+ls documents
+ls -l /etc
+ls /etc
+echo $SHELL
+echo$SHELL
+echo
+open da
+pwdpwd
+home ls
+subl. greeting.html
+subl.
+dir
+touch greeting.html
+touch filename
+home
+mkdir home
+mkdir home/greeting.html
+mkdir script
+mkdir subl
+mkdir hoome
+mkdir -script
+md
