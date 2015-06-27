@@ -29,7 +29,9 @@ ruby exercise5.rb
 # again again tinky-winky
 ruby exercise4.rb
 
+# now  you're just being silly
 cd class2
+
 cd lib
 bin/rspec spec/class2/exercise4_spec.rb
 bin/rubocop spec/class2/exercise4_spec.rb
