@@ -1,3 +1,7 @@
 # I am gitting the hang of this. Must stay clean and committed!
 # Howd'ya like me now?
 # Ya had enough yet?
+# make changes and edits
+# modify add commit and push
+# should i create more branches for this edit?
+# this ends the edits to this file
